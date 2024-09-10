@@ -8,17 +8,22 @@ I like the browsing experience for retail, so I've compiled a list of things I m
 * https://www.awishday.com/products/%f0%9f%8e%852024-christmas-gnome-advent-calendar 
 * https://baistare.com/products/peanuts-calendar 
 
-### Unclassified 2024-09-10
+### Science-ish
 * https://cognitive-surplus.com/ 
+
+### Music
 * https://playlumi.com/lumi-keys 
-* https://www.mosaicpuzzles.co/collections/artist-collection 
-* https://craft-hub.com/collections/harry-potter-jigsaw-puzzles 
-* https://ugeargeek.com/collections/music-machine 
-* https://reachinternationaloutfitters.com/ 
+* https://ugeargeek.com/collections/music-machine
+
+### Adventure
+* https://reachinternationaloutfitters.com/
+  
+### Unclassified 2024-09-10
+
+
 * https://woodbests.com/collections/new-arrivals 
 * https://wecreat.com/products/wecreat-vision 
 * https://brick.me/ 
-* https://mygardyn.com/ 
 * https://en.lovebox.love/products/lovebox-color-photo 
 * https://getauk.com/ 
 * https://www.world.holzkern.com/en_world/blog/post/komorebi-limited-edition/ 
@@ -53,15 +58,14 @@ I like the browsing experience for retail, so I've compiled a list of things I m
 * https://enjoythewood.com/collections/usa-maps 
 
 ### Wooden Structure Kits
-
 * https://www.rokronline.com/products/rokr-marble-spaceport-marble-run-3d-wooden-puzzle-lgc01 
 * https://www.wooden-town.com/collections/thebest-wooden-diy-3d-puzzles
 * https://tiny-treehouses.com/ 
 
 ### Plant Related
 * https://plantpico.com/products/tiny-world 
-* https://easyplant.com/ 
-
+* https://easyplant.com/
+* https://mygardyn.com/ 
 
 ### Video Game Nostalgia
 * https://gamernostalgia.com/
@@ -97,7 +101,9 @@ I like the browsing experience for retail, so I've compiled a list of things I m
 * https://www.mailordermystery.com/pages/mail-order-mystery
 * https://findersseekers.com/
 * https://oddpieces.com/ 
-
+* https://www.mosaicpuzzles.co/collections/artist-collection
+* https://craft-hub.com/collections/harry-potter-jigsaw-puzzles 
+  
 ### Get Organized
 * https://inkandvolt.com/products/ink-volt-dashboard-spiral-deskpad
   
