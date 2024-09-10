@@ -1,6 +1,35 @@
 # Gifts, 2024
 I like the browsing experience for retail, so I've compiled a list of things I might be interested in and am sharing them in here in case this list is also helpful to you.
 
+### Unclassified 2024-09-10
+* https://cognitive-surplus.com/ 
+* https://tiny-treehouses.com/ 
+* https://playlumi.com/lumi-keys 
+* https://www.mosaicpuzzles.co/collections/artist-collection 
+* https://craft-hub.com/collections/harry-potter-jigsaw-puzzles 
+* https://ugeargeek.com/collections/music-machine 
+* https://reachinternationaloutfitters.com/ 
+* https://woodbests.com/collections/new-arrivals 
+* https://thewoobles.com/products/cab-in-the-mood-for-the-holidays-advent-calendar 
+* https://enjoythewood.com/collections/usa-maps 
+* https://wecreat.com/products/wecreat-vision 
+* https://hubmanchubgirl.store/pages/gingerbread-holiday-advent-calendar 
+* https://brick.me/ 
+* https://mygardyn.com/ 
+* https://en.lovebox.love/products/lovebox-color-photo 
+* https://grabieart.com/products/grabie-2024-limited-edition-holiday-advent-calendar-pre-order 
+* https://getauk.com/ 
+* https://www.world.holzkern.com/en_world/blog/post/komorebi-limited-edition/ 
+* https://plantpico.com/products/tiny-world 
+* https://easyplant.com/ 
+* https://www.instagram.com/reel/C_oRmn5RerS/?igsh=aG14OXJ6OWxzMGh3 
+* https://www.awishday.com/products/%f0%9f%8e%852024-christmas-gnome-advent-calendar 
+* https://baistare.com/products/peanuts-calendar 
+* https://shop.tarosorigami.com/products/easy-origami-book-and-standard-origami-paper-combo 
+* https://www.indiegogo.com/projects/gochess-most-powerful-chess-board-ever-invented 
+* https://www.fanhome.com/us/star-wars/millenium-falcon 
+* https://www.makeblock.com/products/buy-mbot2 
+
 ### Electronic Kits
 * https://www.sunfounder.com/products/raspberry-pi-robot-car-kit-picar-x
 * https://picobricks.com/products/solar-tracker-robot 
