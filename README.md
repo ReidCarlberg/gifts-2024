@@ -17,21 +17,6 @@ I like the browsing experience for retail, so I've compiled a list of things I m
 
 ### Adventure
 * https://reachinternationaloutfitters.com/
-  
-### Unclassified 2024-09-10
-
-
-* https://woodbests.com/collections/new-arrivals 
-* https://wecreat.com/products/wecreat-vision 
-* https://brick.me/ 
-* https://en.lovebox.love/products/lovebox-color-photo 
-* https://getauk.com/ 
-* https://www.world.holzkern.com/en_world/blog/post/komorebi-limited-edition/ 
-* https://www.instagram.com/reel/C_oRmn5RerS/?igsh=aG14OXJ6OWxzMGh3 
-* https://shop.tarosorigami.com/products/easy-origami-book-and-standard-origami-paper-combo 
-* https://www.indiegogo.com/projects/gochess-most-powerful-chess-board-ever-invented 
-* https://www.fanhome.com/us/star-wars/millenium-falcon 
-* https://www.makeblock.com/products/buy-mbot2 
 
 ### Electronic Kits
 * https://www.sunfounder.com/products/raspberry-pi-robot-car-kit-picar-x
@@ -39,10 +24,12 @@ I like the browsing experience for retail, so I've compiled a list of things I m
 * https://circuitmess.com/ 
 * https://www.crunchlabs.com/products/hack-pack-subscription
 * https://coupons.inventr.io/sale/
+* https://www.makeblock.com/products/buy-mbot2 
 
 ### Mechanical Kits
 * https://www.kiwico.com/start-a-sub/eureka-pencil 
-* https://shop.diywatch.club/ 
+* https://shop.diywatch.club/
+* https://www.world.holzkern.com/en_world/blog/post/komorebi-limited-edition/
 * https://www.enginediyshop.com/products/retrol-full-metal-diy-steam-engine-model-with-horizontal-boiler-centrifugal-flyball-governor-84pcs 
 * https://www.talisa.com/memories-circle-map-necklace-sterling-18k-gold-plated-prd-ka-cnk0614-gp-t1/ 
 * https://www.moyustore.com/products/build-mechanical-mobula-manta-ray-kinetic-sculpture-kits-metal-automata-toy 
@@ -65,16 +52,18 @@ I like the browsing experience for retail, so I've compiled a list of things I m
 ### Plant Related
 * https://plantpico.com/products/tiny-world 
 * https://easyplant.com/
-* https://mygardyn.com/ 
+* https://mygardyn.com/
+* https://getauk.com/ 
 
 ### Video Game Nostalgia
 * https://gamernostalgia.com/
 * https://gridstudio.cc/ 
 
-### Little Printers
+### Printers & Engravers
 * https://printpod.co/products/buy 
 * https://www.poooliprint.com/products/poooliprinter-l2
 * https://toybox.com/
+* https://wecreat.com/products/wecreat-vision 
 
 ### Clothing
 * https://2046printshop.com/ 
@@ -84,25 +73,32 @@ I like the browsing experience for retail, so I've compiled a list of things I m
 * https://thismonthscraft.com/products/this-months-craft-mens-subscription-box 
 * https://www.littlepassports.com/
 * https://sakura.co/
-* https://www.bokksu.com/ 
+* https://www.bokksu.com/
+* https://www.fanhome.com/us/star-wars/millenium-falcon 
 
 ### Artsy Craftsy
-* https://paintgem.com/ 
+* https://paintgem.com/
+* https://brick.me/ 
 * https://flutterflyers.com/products/flutter-flyers-magic-butterfly
 * https://thewoobles.com/collections/minecraft
+* https://shop.tarosorigami.com/products/easy-origami-book-and-standard-origami-paper-combo 
 
 ### Specialty Clocks
 * https://www.klydoclock.com/pages/gift-perfect
 * https://www.authorclock.com/
 
-### Games & Mysteries & Puzzles
+### Games & Mysteries
 * https://puzzlingpursuits.com/products/the-fifth-column
 * https://theflowerletters.com/pages/get-started
 * https://www.mailordermystery.com/pages/mail-order-mystery
 * https://findersseekers.com/
+* https://www.indiegogo.com/projects/gochess-most-powerful-chess-board-ever-invented 
+
+### Puzzles
 * https://oddpieces.com/ 
 * https://www.mosaicpuzzles.co/collections/artist-collection
 * https://craft-hub.com/collections/harry-potter-jigsaw-puzzles 
+* https://woodbests.com/collections/new-arrivals
   
 ### Get Organized
 * https://inkandvolt.com/products/ink-volt-dashboard-spiral-deskpad
@@ -113,6 +109,7 @@ I like the browsing experience for retail, so I've compiled a list of things I m
 * https://cozyhoome.com/products/ultimate-battle-blaster-6 
 
 ### Other
+* https://en.lovebox.love/products/lovebox-color-photo
 * https://byanavrin.com/products/1940-train-cabin-book-nook-anavrin
 * https://byanavrin.com/products/ginzan-onsen-book-nook-anavrin-motion-scene 
 * https://lostartpress.com/products/the-anarchists-tool-chest 
